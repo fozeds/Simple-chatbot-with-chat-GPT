@@ -1,7 +1,7 @@
 Simple Chat GPT
 ---------------
 
-Este script é um chatbot baseado no GPT-3. Ele permite que você faça perguntas e obtenha respostas geradas pelo modelo.
+Este script é um simples e besta chatbot baseado no GPT-3. Ele permite que você faça perguntas e obtenha respostas geradas pelo modelo.
 
 ### Requisitos
 
